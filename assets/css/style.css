@@ -254,6 +254,8 @@ header.site-header.scrolled { box-shadow: var(--shadow); }
 
 .nav-right { display: flex; align-items: center; gap: 18px; }
 
+.nav-call-btn { display: none; }
+
 .nav-toggle {
   display: none;
   width: 42px; height: 42px;
@@ -930,6 +932,7 @@ footer.site-footer {
   .main-nav a { display: block; padding: 14px 0; width: 100%; border-bottom: 1px solid var(--border-soft); }
   .nav-toggle { display: flex; }
   .nav-right .btn-outline { display: none; }
+  .nav-call-btn { display: flex; margin-top: 24px; width: 100%; }
   .hero-actions .btn { width: 100%; }
   .hero-actions { flex-direction: column; }
   .hero-stats { gap: 24px; }
