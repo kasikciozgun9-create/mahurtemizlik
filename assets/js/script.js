@@ -1,5 +1,5 @@
 /* =========================================================
-   ANKA TEKNİK SERVİS — script.js
+   SERVİS MERKEZİ — script.js
    ========================================================= */
 
 document.addEventListener("DOMContentLoaded", function () {
