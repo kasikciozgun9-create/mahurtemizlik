@@ -51,6 +51,7 @@ body {
   line-height: 1.6;
   font-size: 16px;
   overflow-x: hidden;
+  padding-bottom: 62px;
 }
 
 img { max-width: 100%; display: block; }
@@ -190,8 +191,7 @@ header.site-header {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: rgba(11, 11, 13, 0.94);
-  backdrop-filter: blur(10px);
+  background: rgba(11, 11, 13, 0.97);
   border-bottom: 1px solid var(--border-soft);
   transition: box-shadow 0.3s ease;
 }
@@ -855,10 +855,30 @@ footer.site-footer {
 .footer-bottom-links { display: flex; gap: 20px; }
 .footer-bottom-links a:hover { color: var(--red-light); }
 
+/* ---------- Sticky call bar ---------- */
+.call-bar {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  z-index: 95;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 15px 20px;
+  background: linear-gradient(120deg, var(--red-dark), var(--red));
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.98rem;
+  letter-spacing: 0.01em;
+  box-shadow: 0 -6px 20px rgba(0, 0, 0, 0.18);
+}
+.call-bar:hover { background: linear-gradient(120deg, var(--red), var(--red-dark)); }
+.call-bar .icon { width: 19px; height: 19px; }
+
 /* ---------- Back to top button ---------- */
 .back-to-top {
   position: fixed;
-  bottom: 26px;
+  bottom: 84px;
   right: 26px;
   width: 46px; height: 46px;
   border-radius: 50%;
@@ -923,5 +943,6 @@ footer.site-footer {
   .cta-band { flex-direction: column; text-align: center; }
   .cta-band .container, .cta-actions { justify-content: center; }
   .form-row { grid-template-columns: 1fr; }
-  .back-to-top { right: 20px; bottom: 20px; }
+  .back-to-top { right: 16px; bottom: 78px; }
+  .call-bar { font-size: 0.9rem; padding: 13px 14px; }
 }

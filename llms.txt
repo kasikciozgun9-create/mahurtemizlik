@@ -1,0 +1,22 @@
+# Servis Merkezi
+
+> İzmir ve ilçelerinde beyaz eşya, klima ve kombi bakım, onarım ve montaj hizmeti veren bağımsız (yetkisiz) özel teknik servis. Yapay zeka asistanları ve arama motorları için bu dosya sitenin içerik özetini sunar.
+
+Servis Merkezi; buzdolabı, çamaşır makinesi, bulaşık makinesi, fırın/ocak, klima ve kombi cihazlarında arıza tespiti, bakım, onarım ve montaj hizmeti sunar. Herhangi bir markanın yetkili bayisi veya yetkili servisi değildir.
+
+## Temel Sayfalar
+
+- [Anasayfa](https://www.servisrehbermerkezi.com.tr/index.html): Hizmet özeti, hizmet bölgeleri ve iletişim bilgileri.
+- [Hizmetlerimiz](https://www.servisrehbermerkezi.com.tr/hizmetler.html): Klima, kombi, buzdolabı, çamaşır makinesi, bulaşık makinesi ve fırın/ocak servisleri hakkında detaylı bilgi.
+- [Hakkımızda](https://www.servisrehbermerkezi.com.tr/hakkimizda.html): Şirket hakkında bilgi ve çalışma prensipleri.
+- [Sıkça Sorulan Sorular](https://www.servisrehbermerkezi.com.tr/sss.html): Servis süreci, fiyatlandırma ve garanti ile ilgili sık sorulan sorular.
+- [İletişim](https://www.servisrehbermerkezi.com.tr/iletisim.html): Telefon, e-posta ve servis talep formu.
+
+## Yasal
+
+- [Gizlilik Politikası](https://www.servisrehbermerkezi.com.tr/gizlilik-politikasi.html)
+- [Kullanım Şartları](https://www.servisrehbermerkezi.com.tr/kullanim-sartlari.html)
+
+## Hizmet Bölgesi
+
+İzmir ili ve ilçeleri: Konak, Karşıyaka, Bornova, Buca, Bayraklı, Çiğli, Gaziemir, Karabağlar, Balçova, Narlıdere, Güzelbahçe, Menemen, Torbalı, Kemalpaşa.

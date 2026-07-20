@@ -12,11 +12,14 @@ document.addEventListener("DOMContentLoaded", function () {
       mainNav.classList.toggle("open");
       var isOpen = mainNav.classList.contains("open");
       navToggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
+      document.body.style.overflow = isOpen ? "hidden" : "";
     });
 
     mainNav.querySelectorAll("a").forEach(function (link) {
       link.addEventListener("click", function () {
         mainNav.classList.remove("open");
+        navToggle.setAttribute("aria-expanded", "false");
+        document.body.style.overflow = "";
       });
     });
   }
