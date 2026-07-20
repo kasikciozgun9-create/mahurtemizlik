@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.servisrehbermerkezi.com.tr/sitemap.xml
