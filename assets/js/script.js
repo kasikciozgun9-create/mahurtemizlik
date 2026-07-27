@@ -1,5 +1,5 @@
 /* =========================================================
-   SERVİS MERKEZİ — script.js
+   MAHUR TEMİZLİK — script.js
    ========================================================= */
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -23,6 +23,29 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     });
   }
+
+  /* ---------- Nav dropdown (Bölgeler) ---------- */
+  document.querySelectorAll(".dropdown-toggle").forEach(function (btn) {
+    btn.addEventListener("click", function (e) {
+      e.stopPropagation();
+      var parent = btn.closest(".has-dropdown");
+      var isOpen = parent.classList.contains("open");
+      document.querySelectorAll(".has-dropdown.open").forEach(function (el) {
+        if (el !== parent) {
+          el.classList.remove("open");
+          el.querySelector(".dropdown-toggle").setAttribute("aria-expanded", "false");
+        }
+      });
+      parent.classList.toggle("open", !isOpen);
+      btn.setAttribute("aria-expanded", isOpen ? "false" : "true");
+    });
+  });
+  document.addEventListener("click", function () {
+    document.querySelectorAll(".has-dropdown.open").forEach(function (el) {
+      el.classList.remove("open");
+      el.querySelector(".dropdown-toggle").setAttribute("aria-expanded", "false");
+    });
+  });
 
   /* ---------- Header shrink / shadow on scroll ---------- */
   var header = document.querySelector(".site-header");

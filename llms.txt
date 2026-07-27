@@ -1,22 +1,70 @@
-# Servis Merkezi
+# Mahur Temizlik
 
-> İzmir ve ilçelerinde beyaz eşya, klima ve kombi bakım, onarım ve montaj hizmeti veren bağımsız (yetkisiz) özel teknik servis. Yapay zeka asistanları ve arama motorları için bu dosya sitenin içerik özetini sunar.
+> İstanbul ve tüm ilçelerinde ev, ofis ve inşaat sonrası temizlik ile cam temizliği hizmeti veren profesyonel temizlik firması. Yapay zeka asistanları ve arama motorları için bu dosya sitenin içerik özetini sunar.
 
-Servis Merkezi; buzdolabı, çamaşır makinesi, bulaşık makinesi, fırın/ocak, klima ve kombi cihazlarında arıza tespiti, bakım, onarım ve montaj hizmeti sunar. Herhangi bir markanın yetkili bayisi veya yetkili servisi değildir.
+Mahur Temizlik; ev temizliği, ofis temizliği, inşaat sonrası temizlik ve cam temizliği hizmeti sunar.
 
 ## Temel Sayfalar
 
-- [Anasayfa](https://www.servisrehbermerkezi.com.tr/index.html): Hizmet özeti, hizmet bölgeleri ve iletişim bilgileri.
-- [Hizmetlerimiz](https://www.servisrehbermerkezi.com.tr/hizmetler.html): Klima, kombi, buzdolabı, çamaşır makinesi, bulaşık makinesi ve fırın/ocak servisleri hakkında detaylı bilgi.
-- [Hakkımızda](https://www.servisrehbermerkezi.com.tr/hakkimizda.html): Şirket hakkında bilgi ve çalışma prensipleri.
-- [Sıkça Sorulan Sorular](https://www.servisrehbermerkezi.com.tr/sss.html): Servis süreci, fiyatlandırma ve garanti ile ilgili sık sorulan sorular.
-- [İletişim](https://www.servisrehbermerkezi.com.tr/iletisim.html): Telefon, e-posta ve servis talep formu.
+- [Anasayfa](https://www.mahurtemizlik.com.tr/index.html): Hizmet özeti, hizmet bölgeleri ve iletişim bilgileri.
+- [Hizmetlerimiz](https://www.mahurtemizlik.com.tr/hizmetler.html): Tüm hizmetlerin listelendiği ana hizmetler sayfası.
+- [Ev Temizliği](https://www.mahurtemizlik.com.tr/ev-temizligi.html): Günlük, haftalık ve periyodik ev temizliği hizmeti.
+- [Ofis Temizliği](https://www.mahurtemizlik.com.tr/ofis-temizligi.html): Ofis, mağaza ve iş yerleri için temizlik hizmeti.
+- [İnşaat Sonrası Temizlik](https://www.mahurtemizlik.com.tr/insaat-sonrasi-temizlik.html): Tadilat ve inşaat sonrası toz, alçı ve boya kalıntısı temizliği.
+- [Cam Temizliği](https://www.mahurtemizlik.com.tr/cam-temizligi.html): Pencere, balkon, vitrin ve cephe camı temizliği.
+- [Hakkımızda](https://www.mahurtemizlik.com.tr/hakkimizda.html): Şirket hakkında bilgi ve çalışma prensipleri.
+- [Sıkça Sorulan Sorular](https://www.mahurtemizlik.com.tr/sss.html): Temizlik süreci, fiyatlandırma ve hizmet ile ilgili sık sorulan sorular.
+- [İletişim](https://www.mahurtemizlik.com.tr/iletisim.html): Telefon, e-posta ve WhatsApp'tan sipariş.
+
+## Bölge Sayfaları
+
+İstanbul'un 39 ilçesinin tamamına özel temizlik hizmet sayfaları:
+
+- [Adalar](https://www.mahurtemizlik.com.tr/adalar-temizlik.html)
+- [Arnavutköy](https://www.mahurtemizlik.com.tr/arnavutkoy-temizlik.html)
+- [Ataşehir](https://www.mahurtemizlik.com.tr/atasehir-temizlik.html)
+- [Avcılar](https://www.mahurtemizlik.com.tr/avcilar-temizlik.html)
+- [Bağcılar](https://www.mahurtemizlik.com.tr/bagcilar-temizlik.html)
+- [Bahçelievler](https://www.mahurtemizlik.com.tr/bahcelievler-temizlik.html)
+- [Bakırköy](https://www.mahurtemizlik.com.tr/bakirkoy-temizlik.html)
+- [Başakşehir](https://www.mahurtemizlik.com.tr/basaksehir-temizlik.html)
+- [Bayrampaşa](https://www.mahurtemizlik.com.tr/bayrampasa-temizlik.html)
+- [Beşiktaş](https://www.mahurtemizlik.com.tr/besiktas-temizlik.html)
+- [Beykoz](https://www.mahurtemizlik.com.tr/beykoz-temizlik.html)
+- [Beylikdüzü](https://www.mahurtemizlik.com.tr/beylikduzu-temizlik.html)
+- [Beyoğlu](https://www.mahurtemizlik.com.tr/beyoglu-temizlik.html)
+- [Büyükçekmece](https://www.mahurtemizlik.com.tr/buyukcekmece-temizlik.html)
+- [Çatalca](https://www.mahurtemizlik.com.tr/catalca-temizlik.html)
+- [Çekmeköy](https://www.mahurtemizlik.com.tr/cekmekoy-temizlik.html)
+- [Esenler](https://www.mahurtemizlik.com.tr/esenler-temizlik.html)
+- [Esenyurt](https://www.mahurtemizlik.com.tr/esenyurt-temizlik.html)
+- [Eyüpsultan](https://www.mahurtemizlik.com.tr/eyupsultan-temizlik.html)
+- [Fatih](https://www.mahurtemizlik.com.tr/fatih-temizlik.html)
+- [Gaziosmanpaşa](https://www.mahurtemizlik.com.tr/gaziosmanpasa-temizlik.html)
+- [Güngören](https://www.mahurtemizlik.com.tr/gungoren-temizlik.html)
+- [Kadıköy](https://www.mahurtemizlik.com.tr/kadikoy-temizlik.html)
+- [Kağıthane](https://www.mahurtemizlik.com.tr/kagithane-temizlik.html)
+- [Kartal](https://www.mahurtemizlik.com.tr/kartal-temizlik.html)
+- [Küçükçekmece](https://www.mahurtemizlik.com.tr/kucukcekmece-temizlik.html)
+- [Maltepe](https://www.mahurtemizlik.com.tr/maltepe-temizlik.html)
+- [Pendik](https://www.mahurtemizlik.com.tr/pendik-temizlik.html)
+- [Sancaktepe](https://www.mahurtemizlik.com.tr/sancaktepe-temizlik.html)
+- [Sarıyer](https://www.mahurtemizlik.com.tr/sariyer-temizlik.html)
+- [Şile](https://www.mahurtemizlik.com.tr/sile-temizlik.html)
+- [Silivri](https://www.mahurtemizlik.com.tr/silivri-temizlik.html)
+- [Şişli](https://www.mahurtemizlik.com.tr/sisli-temizlik.html)
+- [Sultanbeyli](https://www.mahurtemizlik.com.tr/sultanbeyli-temizlik.html)
+- [Sultangazi](https://www.mahurtemizlik.com.tr/sultangazi-temizlik.html)
+- [Tuzla](https://www.mahurtemizlik.com.tr/tuzla-temizlik.html)
+- [Ümraniye](https://www.mahurtemizlik.com.tr/umraniye-temizlik.html)
+- [Üsküdar](https://www.mahurtemizlik.com.tr/uskudar-temizlik.html)
+- [Zeytinburnu](https://www.mahurtemizlik.com.tr/zeytinburnu-temizlik.html)
 
 ## Yasal
 
-- [Gizlilik Politikası](https://www.servisrehbermerkezi.com.tr/gizlilik-politikasi.html)
-- [Kullanım Şartları](https://www.servisrehbermerkezi.com.tr/kullanim-sartlari.html)
+- [Gizlilik Politikası](https://www.mahurtemizlik.com.tr/gizlilik-politikasi.html)
+- [Kullanım Şartları](https://www.mahurtemizlik.com.tr/kullanim-sartlari.html)
 
 ## Hizmet Bölgesi
 
-İzmir ili ve ilçeleri: Konak, Karşıyaka, Bornova, Buca, Bayraklı, Çiğli, Gaziemir, Karabağlar, Balçova, Narlıdere, Güzelbahçe, Menemen, Torbalı, Kemalpaşa.
+İstanbul'un tüm ilçelerinde (39 ilçe) yerinde temizlik hizmeti sağlanmaktadır.
