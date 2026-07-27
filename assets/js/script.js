@@ -50,13 +50,24 @@ document.addEventListener("DOMContentLoaded", function () {
   /* ---------- Header shrink / shadow on scroll ---------- */
   var header = document.querySelector(".site-header");
   var backToTop = document.querySelector(".back-to-top");
+  var scrollTicking = false;
 
   function onScroll() {
     var y = window.scrollY;
     if (header) header.classList.toggle("scrolled", y > 10);
     if (backToTop) backToTop.classList.toggle("show", y > 500);
+    scrollTicking = false;
   }
-  document.addEventListener("scroll", onScroll);
+  document.addEventListener(
+    "scroll",
+    function () {
+      if (!scrollTicking) {
+        window.requestAnimationFrame(onScroll);
+        scrollTicking = true;
+      }
+    },
+    { passive: true }
+  );
   onScroll();
 
   if (backToTop) {
