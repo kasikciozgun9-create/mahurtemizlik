@@ -278,6 +278,7 @@ header.site-header.scrolled { box-shadow: var(--shadow); }
   height: 44px;
   width: auto;
   aspect-ratio: 500 / 273;
+  box-sizing: content-box;
   display: block;
   background: var(--bg);
   border-radius: 10px;
