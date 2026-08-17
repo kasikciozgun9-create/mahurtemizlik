@@ -30,4 +30,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://www.mahurtemizlik.com.tr/sitemap.xml
+Sitemap: https://www.palmiyehaliyikama.com/sitemap.xml
