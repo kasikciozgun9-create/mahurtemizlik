@@ -1,54 +1,70 @@
-# Palmiye Halı Yıkama
+# Mahur Temizlik
 
-> Ankara ve çevresinde halı, koltuk, yorgan-battaniye ve perde yıkama hizmeti veren profesyonel halı yıkama firması. Yapay zeka asistanları ve arama motorları için bu dosya sitenin içerik özetini sunar.
+> İstanbul ve tüm ilçelerinde ev, ofis ve inşaat sonrası temizlik ile cam temizliği hizmeti veren profesyonel temizlik firması. Yapay zeka asistanları ve arama motorları için bu dosya sitenin içerik özetini sunar.
 
-Palmiye Halı Yıkama; halı yıkama, koltuk yıkama, yorgan-battaniye yıkama ve perde yıkama hizmeti sunar.
+Mahur Temizlik; ev temizliği, ofis temizliği, inşaat sonrası temizlik ve cam temizliği hizmeti sunar.
 
 ## Temel Sayfalar
 
-- [Anasayfa](https://palmiyehaliyikama.com/index.html): Hizmet özeti, hizmet bölgeleri ve iletişim bilgileri.
-- [Hizmetlerimiz](https://palmiyehaliyikama.com/hizmetler.html): Tüm hizmetlerin listelendiği ana hizmetler sayfası.
-- [Halı Yıkama](https://palmiyehaliyikama.com/hali-yikama.html): Makine, el dokuma, yün ve shaggy halılarda renk haslığı testi ve tam kuruma garantili yıkama.
-- [Koltuk Yıkama](https://palmiyehaliyikama.com/koltuk-yikama.html): Kumaş, deri ve süet koltuklarda yerinde köpük yıkama veya adresten alım.
-- [Yorgan & Battaniye Yıkama](https://palmiyehaliyikama.com/yorgan-battaniye-yikama.html): Topaklanmadan, antibakteriyel şampuanlarla tam kurutma.
-- [Perde Yıkama](https://palmiyehaliyikama.com/perde-yikama.html): Stor, zebra ve fon perdelerde sökmeden veya söküp ütü gerektirmeyen kurutma ile teslim.
-- [Hakkımızda](https://palmiyehaliyikama.com/hakkimizda.html): Şirket hakkında bilgi ve çalışma prensipleri.
-- [Sıkça Sorulan Sorular](https://palmiyehaliyikama.com/sss.html): Yıkama süreci, fiyatlandırma ve hizmet ile ilgili sık sorulan sorular.
-- [İletişim](https://palmiyehaliyikama.com/iletisim.html): Telefon, e-posta ve WhatsApp'tan sipariş.
+- [Anasayfa](https://www.mahurtemizlik.com.tr/index.html): Hizmet özeti, hizmet bölgeleri ve iletişim bilgileri.
+- [Hizmetlerimiz](https://www.mahurtemizlik.com.tr/hizmetler.html): Tüm hizmetlerin listelendiği ana hizmetler sayfası.
+- [Ev Temizliği](https://www.mahurtemizlik.com.tr/ev-temizligi.html): Günlük, haftalık ve periyodik ev temizliği hizmeti.
+- [Ofis Temizliği](https://www.mahurtemizlik.com.tr/ofis-temizligi.html): Ofis, mağaza ve iş yerleri için temizlik hizmeti.
+- [İnşaat Sonrası Temizlik](https://www.mahurtemizlik.com.tr/insaat-sonrasi-temizlik.html): Tadilat ve inşaat sonrası toz, alçı ve boya kalıntısı temizliği.
+- [Cam Temizliği](https://www.mahurtemizlik.com.tr/cam-temizligi.html): Pencere, balkon, vitrin ve cephe camı temizliği.
+- [Hakkımızda](https://www.mahurtemizlik.com.tr/hakkimizda.html): Şirket hakkında bilgi ve çalışma prensipleri.
+- [Sıkça Sorulan Sorular](https://www.mahurtemizlik.com.tr/sss.html): Temizlik süreci, fiyatlandırma ve hizmet ile ilgili sık sorulan sorular.
+- [İletişim](https://www.mahurtemizlik.com.tr/iletisim.html): Telefon, e-posta ve WhatsApp'tan sipariş.
 
 ## Bölge Sayfaları
 
-Ankara'nın Sincan, Etimesgut, Çankaya ve Keçiören başta olmak üzere hizmet verdiğimiz bölgelere özel halı yıkama sayfaları:
+İstanbul'un 39 ilçesinin tamamına özel temizlik hizmet sayfaları:
 
-- [Sincan](https://palmiyehaliyikama.com/sincan-hali-yikama.html)
-- [Etimesgut](https://palmiyehaliyikama.com/etimesgut-hali-yikama.html)
-- [Eryaman](https://palmiyehaliyikama.com/eryaman-hali-yikama.html)
-- [Batıkent](https://palmiyehaliyikama.com/batikent-hali-yikama.html)
-- [Yenikent](https://palmiyehaliyikama.com/yenikent-hali-yikama.html)
-- [Çayyolu](https://palmiyehaliyikama.com/cayyolu-hali-yikama.html)
-- [Bağlıca](https://palmiyehaliyikama.com/baglica-hali-yikama.html)
-- [İncek](https://palmiyehaliyikama.com/incek-hali-yikama.html)
-- [100. Yıl](https://palmiyehaliyikama.com/100-yil-hali-yikama.html)
-- [Balgat](https://palmiyehaliyikama.com/balgat-hali-yikama.html)
-- [Bilkent](https://palmiyehaliyikama.com/bilkent-hali-yikama.html)
-- [Yapracık](https://palmiyehaliyikama.com/yapracik-hali-yikama.html)
-- [Çankaya](https://palmiyehaliyikama.com/cankaya-hali-yikama.html)
-- [Keçiören](https://palmiyehaliyikama.com/kecioren-hali-yikama.html)
-- [Yaşamkent](https://palmiyehaliyikama.com/yasamkent-hali-yikama.html)
-- [Fatih](https://palmiyehaliyikama.com/fatih-hali-yikama.html)
-- [Törekent](https://palmiyehaliyikama.com/torekent-hali-yikama.html)
-- [Elvankent](https://palmiyehaliyikama.com/elvankent-hali-yikama.html)
-- [Emirler](https://palmiyehaliyikama.com/emirler-hali-yikama.html)
-- [Çakırlar](https://palmiyehaliyikama.com/cakirlar-hali-yikama.html)
-- [Demetevler](https://palmiyehaliyikama.com/demetevler-hali-yikama.html)
-- [Bahçelievler](https://palmiyehaliyikama.com/bahcelievler-hali-yikama.html)
-- [Ümitköy](https://palmiyehaliyikama.com/umitkoy-hali-yikama.html)
+- [Adalar](https://www.mahurtemizlik.com.tr/adalar-temizlik.html)
+- [Arnavutköy](https://www.mahurtemizlik.com.tr/arnavutkoy-temizlik.html)
+- [Ataşehir](https://www.mahurtemizlik.com.tr/atasehir-temizlik.html)
+- [Avcılar](https://www.mahurtemizlik.com.tr/avcilar-temizlik.html)
+- [Bağcılar](https://www.mahurtemizlik.com.tr/bagcilar-temizlik.html)
+- [Bahçelievler](https://www.mahurtemizlik.com.tr/bahcelievler-temizlik.html)
+- [Bakırköy](https://www.mahurtemizlik.com.tr/bakirkoy-temizlik.html)
+- [Başakşehir](https://www.mahurtemizlik.com.tr/basaksehir-temizlik.html)
+- [Bayrampaşa](https://www.mahurtemizlik.com.tr/bayrampasa-temizlik.html)
+- [Beşiktaş](https://www.mahurtemizlik.com.tr/besiktas-temizlik.html)
+- [Beykoz](https://www.mahurtemizlik.com.tr/beykoz-temizlik.html)
+- [Beylikdüzü](https://www.mahurtemizlik.com.tr/beylikduzu-temizlik.html)
+- [Beyoğlu](https://www.mahurtemizlik.com.tr/beyoglu-temizlik.html)
+- [Büyükçekmece](https://www.mahurtemizlik.com.tr/buyukcekmece-temizlik.html)
+- [Çatalca](https://www.mahurtemizlik.com.tr/catalca-temizlik.html)
+- [Çekmeköy](https://www.mahurtemizlik.com.tr/cekmekoy-temizlik.html)
+- [Esenler](https://www.mahurtemizlik.com.tr/esenler-temizlik.html)
+- [Esenyurt](https://www.mahurtemizlik.com.tr/esenyurt-temizlik.html)
+- [Eyüpsultan](https://www.mahurtemizlik.com.tr/eyupsultan-temizlik.html)
+- [Fatih](https://www.mahurtemizlik.com.tr/fatih-temizlik.html)
+- [Gaziosmanpaşa](https://www.mahurtemizlik.com.tr/gaziosmanpasa-temizlik.html)
+- [Güngören](https://www.mahurtemizlik.com.tr/gungoren-temizlik.html)
+- [Kadıköy](https://www.mahurtemizlik.com.tr/kadikoy-temizlik.html)
+- [Kağıthane](https://www.mahurtemizlik.com.tr/kagithane-temizlik.html)
+- [Kartal](https://www.mahurtemizlik.com.tr/kartal-temizlik.html)
+- [Küçükçekmece](https://www.mahurtemizlik.com.tr/kucukcekmece-temizlik.html)
+- [Maltepe](https://www.mahurtemizlik.com.tr/maltepe-temizlik.html)
+- [Pendik](https://www.mahurtemizlik.com.tr/pendik-temizlik.html)
+- [Sancaktepe](https://www.mahurtemizlik.com.tr/sancaktepe-temizlik.html)
+- [Sarıyer](https://www.mahurtemizlik.com.tr/sariyer-temizlik.html)
+- [Şile](https://www.mahurtemizlik.com.tr/sile-temizlik.html)
+- [Silivri](https://www.mahurtemizlik.com.tr/silivri-temizlik.html)
+- [Şişli](https://www.mahurtemizlik.com.tr/sisli-temizlik.html)
+- [Sultanbeyli](https://www.mahurtemizlik.com.tr/sultanbeyli-temizlik.html)
+- [Sultangazi](https://www.mahurtemizlik.com.tr/sultangazi-temizlik.html)
+- [Tuzla](https://www.mahurtemizlik.com.tr/tuzla-temizlik.html)
+- [Ümraniye](https://www.mahurtemizlik.com.tr/umraniye-temizlik.html)
+- [Üsküdar](https://www.mahurtemizlik.com.tr/uskudar-temizlik.html)
+- [Zeytinburnu](https://www.mahurtemizlik.com.tr/zeytinburnu-temizlik.html)
 
 ## Yasal
 
-- [Gizlilik Politikası](https://palmiyehaliyikama.com/gizlilik-politikasi.html)
-- [Kullanım Şartları](https://palmiyehaliyikama.com/kullanim-sartlari.html)
+- [Gizlilik Politikası](https://www.mahurtemizlik.com.tr/gizlilik-politikasi.html)
+- [Kullanım Şartları](https://www.mahurtemizlik.com.tr/kullanim-sartlari.html)
 
 ## Hizmet Bölgesi
 
-Ankara'nın Sincan, Etimesgut, Çankaya, Keçiören ve çevresindeki tüm bölgelerde adresten alım-teslim ile halı yıkama hizmeti sağlanmaktadır.
+İstanbul'un tüm ilçelerinde (39 ilçe) yerinde temizlik hizmeti sağlanmaktadır.
